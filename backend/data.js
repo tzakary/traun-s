@@ -1,0 +1,50 @@
+const data = {
+    products: [
+        {
+            _id: '1',
+            name: 'Batua (Flap)',
+            category: 'Wallets',
+            image: '/images/p1.jpg',
+            price: 449,
+            countInStock: 6,
+            leatherType: 'Full grain | Chrome tanned | 2 mm',
+            rating: 4.5,
+            numReviews: 10,
+        },
+        {
+            _id: '2',
+            name: 'Batua (Snaps)',
+            category: 'Wallets',
+            image: '/images/p2.jpg',
+            price: 499,
+            countInStock: 12,
+            leatherType: 'Full grain | Chrome tanned | 2 mm',
+            rating: 4.0,
+            numReviews: 4,
+        },
+        {
+            _id: '3',
+            name: 'Keychain (Dog hook)',
+            category: 'Keychains',
+            image: '/images/p3.jpg',
+            price: 199,
+            countInStock: 19,
+            leatherType: 'Full grain | Veg tanned | 3 mm',
+            rating: 4.8,
+            numReviews: 16,
+        },
+        {
+            _id: '4',
+            name: 'Keychain (Rivet)',
+            category: 'Keychains',
+            image: '/images/p4.jpg',
+            price: 299,
+            countInStock: 4,
+            leatherType: 'Full grain | Veg tanned | 3 mm',
+            rating: 3.5,
+            numReviews: 3,
+        },
+    ],
+};
+
+export default data;
