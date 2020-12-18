@@ -1,0 +1,6 @@
+# traun-s
+An EDC hub.
+In today’s world, where apart from having a job it is also necessary to have a self-owned business to thrive, I found my passion for leather craft. Few months into the new hobby, I realized that no matter how fine the products’ quality it is always the marketing that brings in the customers. As a result, in contrast to the exponentially expanding pool of Instagram thrift stores, I decided to develop a web app for my leather goods with the aim to give my products a professional look. Following are the objectives from the point of view of software development that I aim to accomplish through this project:
+1.	Building a professional web template using HTML 5 and CSS 3 with an interactive frontend using React framework of JavaScript. In addition to this, use of flex-box to make the web app responsive so that it can be opened on various devices.  
+2.	Aim is to make a scalable modular backend using Node.js environment where the web app would have its most frequented aspects (e.g. products, ratings etc.) as separate components which could be imported by sending a request to the server.
+3.	Connecting the web app to a payment gateway for making real world transactions.
